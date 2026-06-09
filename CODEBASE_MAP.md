@@ -527,6 +527,7 @@ npm run db:reset
 - Kiosk UI is based on fixed 16:9 reference PNGs.
 - Use absolute-positioned hitboxes over reference artwork for desktop.
 - The base-selection screen uses `public/reference-layout/collection-v2.png`, copied from `REFERENCIA LAYOUT V2/HENKEL/150 ANOS = 150 MOLETONS!/pngs/6.png`; unlike the older baked reference, the `INICIAR` button is a real visible red button rendered in CSS.
+- In this duplicated 3-base variant, `.collection-picker` uses a centered 3-column grid so `IPÊ & ICJ`, `Paulista`, and `Planta` stay centered over the sweatshirt artwork.
 - The profile/data-collection screen uses `public/reference-layout/profile-v3.png`, copied from `REFERENCIA LAYOUT V3/2.png`; the privacy footnote is rendered manually because it is not baked into that artwork.
 - The saved-base profile OK hitbox is sized to the full baked red OK rectangle in `profile-v3.png`, not just the visible text.
 - The post-profile ready screen uses `public/reference-layout/ready-v2.png`, copied from V2 `3.png`, with a transparent `.ready-ok-button` over the baked OK artwork.
@@ -567,6 +568,8 @@ Date: 2026-06-09
 ### What changed
 
 Duplicated the project to `C:\Users\achri\Desktop\QUIZZ-SEM-CONFIG`, removed the visible ranking share button, removed the visible settings/admin shortcut button from the quiz start screen, and removed `Quiz Geral` from selectable bases.
+
+Centered the three base-selection buttons by changing the collection picker from the old 4-column layout to a 3-column centered grid.
 
 Changed `/admin` reset authentication from PostgreSQL credentials to fixed admin credentials: `admin@henkel.com` / `admin`.
 
