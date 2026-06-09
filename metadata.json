@@ -1,0 +1,5 @@
+{
+  "name": "Quiz App",
+  "description": "Um aplicativo de quiz com perguntas aleatórias carregadas de um arquivo YAML.",
+  "requestFramePermissions": []
+}

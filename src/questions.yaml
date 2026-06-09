@@ -1,0 +1,890 @@
+﻿colecoes:
+  - id: ipe-icj
+    nome: "IPÊ & ICJ"
+    perguntas:
+      - id: ipe-icj-001
+        pergunta: "Há quantos anos a Henkel está presente no Brasil?"
+        nivel: facil
+        pontos: 5
+        alternativas:
+          - "70 anos"
+          - "20 anos"
+          - "50 anos"
+          - "150 anos"
+        resposta_correta: "70 anos"
+      - id: ipe-icj-002
+        pergunta: "Em que ano o Inspiration Center Jundiaí foi oficialmente inaugurado?"
+        nivel: facil
+        pontos: 5
+        alternativas:
+          - "2026"
+          - "2020"
+          - "2022"
+          - "2024"
+        resposta_correta: "2026"
+      - id: ipe-icj-003
+        pergunta: "Qual dessas marcas de Henkel Consumer Brands faz parte do portfólio brasileiro?"
+        nivel: facil
+        pontos: 5
+        alternativas:
+          - "Schwarzkopf"
+          - "Got2be"
+          - "Persil"
+          - "Purex"
+        resposta_correta: "Schwarzkopf"
+      - id: ipe-icj-004
+        pergunta: "Onde fica a sede da Henkel na Alemanha?"
+        nivel: facil
+        pontos: 5
+        alternativas:
+          - "Düsseldorf"
+          - "Berlim"
+          - "Munique"
+          - "Frankfurt"
+        resposta_correta: "Düsseldorf"
+      - id: ipe-icj-005
+        pergunta: "Quem é o fundador da Henkel, cujo espírito pioneiro inspira a empresa há 150 anos?"
+        nivel: facil
+        pontos: 5
+        alternativas:
+          - "Fritz Henkel"
+          - "Hans Schwarzkopf"
+          - "Werner von Siemens"
+          - "Carl Bosch"
+        resposta_correta: "Fritz Henkel"
+      - id: ipe-icj-006
+        pergunta: "Qual produto lançado pela Henkel em 1969 foi o primeiro bastão de cola do mundo?"
+        nivel: facil
+        pontos: 5
+        alternativas:
+          - "Pritt"
+          - "SuperBonder"
+          - "Durepoxi"
+          - "Cascola"
+        resposta_correta: "Pritt"
+      - id: ipe-icj-007
+        pergunta: "“Lady in White”, a “Senhora de Branco”, foi a figura publicitária de qual marca da Henkel?"
+        nivel: medio
+        pontos: 10
+        alternativas:
+          - "Persil"
+          - "Schwarzkopf"
+          - "Pritt"
+          - "Loctite"
+        resposta_correta: "Persil"
+      - id: ipe-icj-008
+        pergunta: "Qual o lema do aniversário de 150 anos da Henkel?"
+        nivel: facil
+        pontos: 5
+        alternativas:
+          - "Futuro? Estamos prontos!"
+          - "Futuro? Estamos chegando..."
+          - "A caminho do futuro."
+          - "O futuro nos espera."
+        resposta_correta: "Futuro? Estamos prontos!"
+      - id: ipe-icj-009
+        pergunta: "Qual o propósito da Henkel, inspirado pelo espírito pioneiro de seu fundador?"
+        nivel: medio
+        pontos: 10
+        alternativas:
+          - "Pioneiros de coração pelo bem das gerações"
+          - "Pioneiros na inovação para um futuro sustentável"
+          - "Transformando o hoje para construir o amanhã"
+          - "Inspirados pelo futuro, movidos pela inovação"
+        resposta_correta: "Pioneiros de coração pelo bem das gerações"
+      - id: ipe-icj-010
+        pergunta: "Onde está localizado o Academy of Hair, academia de treinamentos voltados para cuidados capilares (HCB-P), no Brasil?"
+        nivel: facil
+        pontos: 5
+        alternativas:
+          - "São Paulo"
+          - "Rio de Janeiro"
+          - "Jundiaí"
+          - "Itapevi"
+        resposta_correta: "São Paulo"
+      - id: ipe-icj-011
+        pergunta: "Qual marca da Henkel foi atestada com “Qualidade à Prova do Espaço” em 2001?"
+        nivel: medio
+        pontos: 10
+        alternativas:
+          - "Pritt"
+          - "SuperBonder"
+          - "Cascorez"
+          - "Schwarzkopf"
+        resposta_correta: "Pritt"
+      - id: ipe-icj-012
+        pergunta: "Qual monumento histórico foi apoiado pela Henkel em um projeto de restauração em 1987?"
+        nivel: dificil
+        pontos: 15
+        alternativas:
+          - "Grande Muralha da China"
+          - "Coliseu de Roma"
+          - "Torre Eiffel"
+          - "As Pirâmides de Gizé"
+        resposta_correta: "Grande Muralha da China"
+      - id: ipe-icj-013
+        pergunta: "Qual empresa foi adquirida integralmente pela Henkel em 1997 para fortalecer seu negócio de adesivos?"
+        nivel: medio
+        pontos: 10
+        alternativas:
+          - "Loctite"
+          - "Cascola"
+          - "Pritt"
+          - "Durepoxi"
+        resposta_correta: "Loctite"
+      - id: ipe-icj-014
+        pergunta: "Qual tipo de produto a Henkel começou a produzir em 1922, dando origem a um novo segmento de negócios?"
+        nivel: medio
+        pontos: 10
+        alternativas:
+          - "Adesivos"
+          - "Cosméticos"
+          - "Sabão líquido"
+          - "Sabão em pó"
+        resposta_correta: "Adesivos"
+      - id: ipe-icj-015
+        pergunta: "Em que ano a marca Authentic Beauty Concept foi lançada no mercado brasileiro?"
+        nivel: dificil
+        pontos: 15
+        alternativas:
+          - "2020"
+          - "2013"
+          - "2025"
+          - "2004"
+        resposta_correta: "2020"
+      - id: ipe-icj-016
+        pergunta: "Além de Düsseldorf e Jundiaí, onde está localizado outro Inspiration Center da Henkel?"
+        nivel: medio
+        pontos: 10
+        alternativas:
+          - "Xangai"
+          - "Mumbai"
+          - "Dubai"
+          - "Barcelona"
+        resposta_correta: "Xangai"
+      - id: ipe-icj-017
+        pergunta: "Qual artefato histórico foi restaurado em 2015 com o apoio de tecnologias adesivas da Henkel?"
+        nivel: dificil
+        pontos: 15
+        alternativas:
+          - "A máscara de Tutancâmon"
+          - "A pedra de Roseta"
+          - "O sarcófago de Ramsés II"
+          - "A moldura da Mona Lisa"
+        resposta_correta: "A máscara de Tutancâmon"
+      - id: ipe-icj-018
+        pergunta: "Qual país foi escolhido para sediar a primeira filial da Henkel na América Latina?"
+        nivel: medio
+        pontos: 10
+        alternativas:
+          - "Brasil"
+          - "México"
+          - "Peru"
+          - "Colômbia"
+        resposta_correta: "Brasil"
+      - id: ipe-icj-019
+        pergunta: "Onde estava localizada a primeira fábrica da Henkel no Brasil?"
+        nivel: medio
+        pontos: 10
+        alternativas:
+          - "Jacareí"
+          - "Campinas"
+          - "Boituva"
+          - "Suzano"
+        resposta_correta: "Jacareí"
+      - id: ipe-icj-020
+        pergunta: "Qual é o principal compromisso climático da Henkel para 2045?"
+        nivel: medio
+        pontos: 10
+        alternativas:
+          - "Atingir zero emissões líquidas de gases de efeito estufa"
+          - "Alcançar uma redução de 29% nas emissões totais"
+          - "Aumentar o percentual de uso de energia renovável para 97%"
+          - "Não há uma meta definida"
+        resposta_correta: "Atingir zero emissões líquidas de gases de efeito estufa"
+      - id: ipe-icj-021
+        pergunta: "Qual é o piloto brasileiro da Stock Car patrocinado pela Henkel que utiliza produtos Loctite e Teroson em seu carro?"
+        nivel: dificil
+        pontos: 15
+        alternativas:
+          - "Bruno Baptista"
+          - "Felipe Fraga"
+          - "Gabriel Casagrande"
+          - "Átila Abreu"
+        resposta_correta: "Bruno Baptista"
+      - id: ipe-icj-022
+        pergunta: "Em que década a cola Pritt foi introduzida no mercado brasileiro?"
+        nivel: dificil
+        pontos: 15
+        alternativas:
+          - "1970"
+          - "1980"
+          - "1990"
+          - "1960"
+        resposta_correta: "1970"
+      - id: ipe-icj-023
+        pergunta: "Em que cidade da Alemanha a Henkel foi fundada?"
+        nivel: dificil
+        pontos: 15
+        alternativas:
+          - "Aachen"
+          - "Düsseldorf"
+          - "Berlim"
+          - "Hamburgo"
+        resposta_correta: "Aachen"
+      - id: ipe-icj-024
+        pergunta: "Qual animal foi símbolo da marca Henkel entre 1895 e 1961, aparecendo nas embalagens e tornando-se uma marca registrada da companhia?"
+        nivel: dificil
+        pontos: 15
+        alternativas:
+          - "Leão"
+          - "Águia"
+          - "Urso"
+          - "Gato"
+        resposta_correta: "Leão"
+      - id: ipe-icj-025
+        pergunta: "Em que ano foi publicado o primeiro Relatório de Sustentabilidade da Henkel?"
+        nivel: dificil
+        pontos: 15
+        alternativas:
+          - "1992"
+          - "2001"
+          - "1989"
+          - "2018"
+        resposta_correta: "1992"
+      - id: ipe-icj-026
+        pergunta: "Em que década a Henkel introduziu os adesivos Technomelt para embalagens e encadernação?"
+        nivel: medio
+        pontos: 10
+        alternativas:
+          - "1960"
+          - "1950"
+          - "1970"
+          - "1980"
+        resposta_correta: "1960"
+      - id: ipe-icj-027
+        pergunta: "O nome “Persil” deriva da combinação de quais componentes químicos utilizados em sua formulação original?"
+        nivel: medio
+        pontos: 10
+        alternativas:
+          - "Perborato e silicato"
+          - "Sulfato e nitrato"
+          - "Percarbonato e potássio"
+          - "Cloro e sílica"
+        resposta_correta: "Perborato e silicato"
+      - id: ipe-icj-028
+        pergunta: "Qual produto da Henkel, lançado em 1907, revolucionou a lavagem de roupas como um dos primeiros detergentes autoativos?"
+        nivel: facil
+        pontos: 5
+        alternativas:
+          - "Persil"
+          - "Pril"
+          - "Dixan"
+          - "Bref"
+        resposta_correta: "Persil"
+      - id: ipe-icj-029
+        pergunta: "Em que país foi fundada a primeira subsidiária de produção da Henkel em 1913?"
+        nivel: dificil
+        pontos: 15
+        alternativas:
+          - "Suíça"
+          - "França"
+          - "Espanha"
+          - "Itália"
+        resposta_correta: "Suíça"
+      - id: ipe-icj-030
+        pergunta: "Qual produto foi destaque no primeiro comercial de TV exibido na Alemanha em 1956?"
+        nivel: medio
+        pontos: 10
+        alternativas:
+          - "Persil"
+          - "Got2be"
+          - "Loctite"
+          - "Pritt"
+        resposta_correta: "Persil"
+      - id: ipe-icj-031
+        pergunta: "Em qual cidade a Henkel lançou seu primeiro House of Hair, centro de inovação para cuidados capilares?"
+        nivel: dificil
+        pontos: 15
+        alternativas:
+          - "Hamburgo"
+          - "Paris"
+          - "Nova Iorque"
+          - "Xangai"
+        resposta_correta: "Hamburgo"
+      - id: ipe-icj-032
+        pergunta: "Qual é a tecnologia de Cascola 451?"
+        nivel: medio
+        pontos: 10
+        alternativas:
+          - "Cianoacrilato"
+          - "Epóxi"
+          - "Silicone"
+          - "PU"
+        resposta_correta: "Cianoacrilato"
+      - id: ipe-icj-033
+        pergunta: "Qual dos seguintes produtos dissolve a corrosão?"
+        nivel: medio
+        pontos: 10
+        alternativas:
+          - "Loctite SF 8046 Solvo Rust"
+          - "Loctite SF 7199 Removedor de Juntas"
+          - "Loctite 243"
+          - "Loctite 660"
+        resposta_correta: "Loctite SF 8046 Solvo Rust"
+      - id: ipe-icj-034
+        pergunta: "Em quais sites estão localizadas as instalações de produção aeroespacial da Henkel?"
+        nivel: dificil
+        pontos: 15
+        alternativas:
+          - "Bay Point (EUA) e Montornès del Vallès (Espanha)"
+          - "Bridgewater (EUA) e Jundiaí (Brasil)"
+          - "Toluca (México) e Xangai (China)"
+          - "Düsseldorf (Alemanha) e Bogotá (Colômbia)"
+        resposta_correta: "Bay Point (EUA) e Montornès del Vallès (Espanha)"
+      - id: ipe-icj-035
+        pergunta: "Os produtos Loctite são anaeróbicos por natureza, o que significa que só curam com a ausência de oxigênio."
+        nivel: medio
+        pontos: 10
+        alternativas:
+          - "Verdade"
+          - "Mito"
+        resposta_correta: "Verdade"
+      - id: ipe-icj-036
+        pergunta: "Depois de colado com Loctite, é impossível remover um trava-roscas."
+        nivel: medio
+        pontos: 10
+        alternativas:
+          - "Mito"
+          - "Verdade"
+        resposta_correta: "Mito"
+
+  - id: fabrica-jundiai
+    nome: "FÁBRICA JUNDIAÍ"
+    perguntas:
+      - id: fabrica-jundiai-001
+        pergunta: "Há quantos anos a Henkel está presente no Brasil?"
+        nivel: facil
+        pontos: 5
+        alternativas:
+          - "70 anos"
+          - "20 anos"
+          - "50 anos"
+          - "150 anos"
+        resposta_correta: "70 anos"
+      - id: fabrica-jundiai-002
+        pergunta: "Em que ano o Inspiration Center Jundiaí foi oficialmente inaugurado?"
+        nivel: facil
+        pontos: 5
+        alternativas:
+          - "2026"
+          - "2020"
+          - "2022"
+          - "2024"
+        resposta_correta: "2026"
+      - id: fabrica-jundiai-003
+        pergunta: "Qual dessas marcas de Henkel Consumer Brands faz parte do portfólio brasileiro?"
+        nivel: facil
+        pontos: 5
+        alternativas:
+          - "Schwarzkopf"
+          - "Got2be"
+          - "Persil"
+          - "Purex"
+        resposta_correta: "Schwarzkopf"
+      - id: fabrica-jundiai-004
+        pergunta: "Onde fica a sede da Henkel na Alemanha?"
+        nivel: facil
+        pontos: 5
+        alternativas:
+          - "Düsseldorf"
+          - "Berlim"
+          - "Munique"
+          - "Frankfurt"
+        resposta_correta: "Düsseldorf"
+      - id: fabrica-jundiai-005
+        pergunta: "Quem é o fundador da Henkel, cujo espírito pioneiro inspira a empresa há 150 anos?"
+        nivel: facil
+        pontos: 5
+        alternativas:
+          - "Fritz Henkel"
+          - "Hans Schwarzkopf"
+          - "Werner von Siemens"
+          - "Carl Bosch"
+        resposta_correta: "Fritz Henkel"
+      - id: fabrica-jundiai-006
+        pergunta: "Qual produto lançado pela Henkel em 1969 foi o primeiro bastão de cola do mundo?"
+        nivel: facil
+        pontos: 5
+        alternativas:
+          - "Pritt"
+          - "SuperBonder"
+          - "Durepoxi"
+          - "Cascola"
+        resposta_correta: "Pritt"
+      - id: fabrica-jundiai-007
+        pergunta: "Qual marca da Henkel foi atestada com “Qualidade à Prova do Espaço” em 2001?"
+        nivel: medio
+        pontos: 10
+        alternativas:
+          - "Pritt"
+          - "SuperBonder"
+          - "Cascorez"
+          - "Schwarzkopf"
+        resposta_correta: "Pritt"
+      - id: fabrica-jundiai-008
+        pergunta: "Qual monumento histórico foi apoiado pela Henkel em um projeto de restauração em 1987?"
+        nivel: dificil
+        pontos: 15
+        alternativas:
+          - "Grande Muralha da China"
+          - "Coliseu de Roma"
+          - "Torre Eiffel"
+          - "As Pirâmides de Gizé"
+        resposta_correta: "Grande Muralha da China"
+      - id: fabrica-jundiai-009
+        pergunta: "Qual empresa foi adquirida integralmente pela Henkel em 1997 para fortalecer seu negócio de adesivos?"
+        nivel: medio
+        pontos: 10
+        alternativas:
+          - "Loctite"
+          - "Cascola"
+          - "Pritt"
+          - "Durepoxi"
+        resposta_correta: "Loctite"
+      - id: fabrica-jundiai-010
+        pergunta: "Qual tipo de produto a Henkel começou a produzir em 1922, dando origem a um novo segmento de negócios?"
+        nivel: medio
+        pontos: 10
+        alternativas:
+          - "Adesivos"
+          - "Cosméticos"
+          - "Sabão líquido"
+          - "Sabão em pó"
+        resposta_correta: "Adesivos"
+      - id: fabrica-jundiai-011
+        pergunta: "Além de Düsseldorf e Jundiaí, onde está localizado outro Inspiration Center da Henkel?"
+        nivel: medio
+        pontos: 10
+        alternativas:
+          - "Xangai"
+          - "Mumbai"
+          - "Dubai"
+          - "Barcelona"
+        resposta_correta: "Xangai"
+      - id: fabrica-jundiai-012
+        pergunta: "Qual artefato histórico foi restaurado em 2015 com o apoio de tecnologias adesivas da Henkel?"
+        nivel: dificil
+        pontos: 15
+        alternativas:
+          - "A máscara de Tutancâmon"
+          - "A pedra de Roseta"
+          - "O sarcófago de Ramsés II"
+          - "A moldura da Mona Lisa"
+        resposta_correta: "A máscara de Tutancâmon"
+      - id: fabrica-jundiai-013
+        pergunta: "Qual país foi escolhido para sediar a primeira filial da Henkel na América Latina?"
+        nivel: medio
+        pontos: 10
+        alternativas:
+          - "Brasil"
+          - "México"
+          - "Peru"
+          - "Colômbia"
+        resposta_correta: "Brasil"
+      - id: fabrica-jundiai-014
+        pergunta: "Onde estava localizada a primeira fábrica da Henkel no Brasil?"
+        nivel: medio
+        pontos: 10
+        alternativas:
+          - "Jacareí"
+          - "Campinas"
+          - "Boituva"
+          - "Suzano"
+        resposta_correta: "Jacareí"
+      - id: fabrica-jundiai-015
+        pergunta: "Qual é o principal compromisso climático da Henkel para 2045?"
+        nivel: medio
+        pontos: 10
+        alternativas:
+          - "Atingir zero emissões líquidas de gases de efeito estufa"
+          - "Alcançar uma redução de 29% nas emissões totais"
+          - "Aumentar o percentual de uso de energia renovável para 97%"
+          - "Não há uma meta definida"
+        resposta_correta: "Atingir zero emissões líquidas de gases de efeito estufa"
+      - id: fabrica-jundiai-016
+        pergunta: "Qual é o piloto brasileiro da Stock Car patrocinado pela Henkel que utiliza produtos Loctite e Teroson em seu carro?"
+        nivel: dificil
+        pontos: 15
+        alternativas:
+          - "Bruno Baptista"
+          - "Felipe Fraga"
+          - "Gabriel Casagrande"
+          - "Átila Abreu"
+        resposta_correta: "Bruno Baptista"
+      - id: fabrica-jundiai-017
+        pergunta: "Em que década a cola Pritt foi introduzida no mercado brasileiro?"
+        nivel: dificil
+        pontos: 15
+        alternativas:
+          - "1970"
+          - "1980"
+          - "1990"
+          - "1960"
+        resposta_correta: "1970"
+      - id: fabrica-jundiai-018
+        pergunta: "Em que cidade da Alemanha a Henkel foi fundada?"
+        nivel: dificil
+        pontos: 15
+        alternativas:
+          - "Aachen"
+          - "Düsseldorf"
+          - "Berlim"
+          - "Hamburgo"
+        resposta_correta: "Aachen"
+      - id: fabrica-jundiai-019
+        pergunta: "Em que ano foi publicado o primeiro Relatório de Sustentabilidade da Henkel?"
+        nivel: dificil
+        pontos: 15
+        alternativas:
+          - "1992"
+          - "2001"
+          - "1989"
+          - "2018"
+        resposta_correta: "1992"
+      - id: fabrica-jundiai-020
+        pergunta: "Em que década a Henkel introduziu os adesivos Technomelt para embalagens e encadernação?"
+        nivel: medio
+        pontos: 10
+        alternativas:
+          - "1960"
+          - "1950"
+          - "1970"
+          - "1980"
+        resposta_correta: "1960"
+      - id: fabrica-jundiai-021
+        pergunta: "Em que ano a marca Authentic Beauty Concept foi lançada no mercado brasileiro?"
+        nivel: dificil
+        pontos: 15
+        alternativas:
+          - "2020"
+          - "2013"
+          - "2025"
+          - "2004"
+        resposta_correta: "2020"
+      - id: fabrica-jundiai-022
+        pergunta: "O nome “Persil” deriva da combinação de quais componentes químicos utilizados em sua formulação original?"
+        nivel: medio
+        pontos: 10
+        alternativas:
+          - "Perborato e silicato"
+          - "Sulfato e nitrato"
+          - "Percarbonato e potássio"
+          - "Cloro e sílica"
+        resposta_correta: "Perborato e silicato"
+      - id: fabrica-jundiai-023
+        pergunta: "Qual produto da Henkel, lançado em 1907, revolucionou a lavagem de roupas como um dos primeiros detergentes autoativos?"
+        nivel: facil
+        pontos: 5
+        alternativas:
+          - "Persil"
+          - "Pril"
+          - "Dixan"
+          - "Bref"
+        resposta_correta: "Persil"
+      - id: fabrica-jundiai-024
+        pergunta: "Qual é a tecnologia de Cascola 451?"
+        nivel: medio
+        pontos: 10
+        alternativas:
+          - "Cianoacrilato"
+          - "Epóxi"
+          - "Silicone"
+          - "PU"
+        resposta_correta: "Cianoacrilato"
+      - id: fabrica-jundiai-025
+        pergunta: "Qual dos seguintes produtos dissolve a corrosão?"
+        nivel: medio
+        pontos: 10
+        alternativas:
+          - "Loctite SF 8046 Solvo Rust"
+          - "Loctite SF 7199 Removedor de Juntas"
+          - "Loctite 243"
+          - "Loctite 660"
+        resposta_correta: "Loctite SF 8046 Solvo Rust"
+      - id: fabrica-jundiai-026
+        pergunta: "Os produtos Loctite são anaeróbicos por natureza, o que significa que só curam com a ausência de oxigênio."
+        nivel: medio
+        pontos: 10
+        alternativas:
+          - "Verdade"
+          - "Mito"
+        resposta_correta: "Verdade"
+      - id: fabrica-jundiai-027
+        pergunta: "Depois de colado com Loctite, é impossível remover um trava-roscas."
+        nivel: medio
+        pontos: 10
+        alternativas:
+          - "Mito"
+          - "Verdade"
+        resposta_correta: "Mito"
+      - id: fabrica-jundiai-028
+        pergunta: "Qual o lema do aniversário de 150 anos da Henkel?"
+        nivel: facil
+        pontos: 5
+        alternativas:
+          - "Futuro? Estamos prontos!"
+          - "Futuro? Estamos chegando..."
+          - "A caminho do futuro."
+          - "O futuro nos espera."
+        resposta_correta: "Futuro? Estamos prontos!"
+
+  - id: fabrica-itapevi
+    nome: "FÁBRICA ITAPEVI"
+    perguntas:
+      - id: fabrica-itapevi-001
+        pergunta: "Há quantos anos a Henkel está presente no Brasil?"
+        nivel: facil
+        pontos: 5
+        alternativas:
+          - "70 anos"
+          - "20 anos"
+          - "50 anos"
+          - "150 anos"
+        resposta_correta: "70 anos"
+      - id: fabrica-itapevi-002
+        pergunta: "Em que ano o Inspiration Center Jundiaí foi oficialmente inaugurado?"
+        nivel: facil
+        pontos: 5
+        alternativas:
+          - "2026"
+          - "2020"
+          - "2022"
+          - "2024"
+        resposta_correta: "2026"
+      - id: fabrica-itapevi-003
+        pergunta: "Qual dessas marcas de Henkel Consumer Brands faz parte do portfólio brasileiro?"
+        nivel: facil
+        pontos: 5
+        alternativas:
+          - "Schwarzkopf"
+          - "Got2be"
+          - "Persil"
+          - "Purex"
+        resposta_correta: "Schwarzkopf"
+      - id: fabrica-itapevi-004
+        pergunta: "Onde fica a sede da Henkel na Alemanha?"
+        nivel: facil
+        pontos: 5
+        alternativas:
+          - "Düsseldorf"
+          - "Berlim"
+          - "Munique"
+          - "Frankfurt"
+        resposta_correta: "Düsseldorf"
+      - id: fabrica-itapevi-005
+        pergunta: "Quem é o fundador da Henkel, cujo espírito pioneiro inspira a empresa há 150 anos?"
+        nivel: facil
+        pontos: 5
+        alternativas:
+          - "Fritz Henkel"
+          - "Hans Schwarzkopf"
+          - "Werner von Siemens"
+          - "Carl Bosch"
+        resposta_correta: "Fritz Henkel"
+      - id: fabrica-itapevi-006
+        pergunta: "Qual produto lançado pela Henkel em 1969 foi o primeiro bastão de cola do mundo?"
+        nivel: facil
+        pontos: 5
+        alternativas:
+          - "Pritt"
+          - "SuperBonder"
+          - "Durepoxi"
+          - "Cascola"
+        resposta_correta: "Pritt"
+      - id: fabrica-itapevi-007
+        pergunta: "Em que cidade da Alemanha a Henkel foi fundada?"
+        nivel: dificil
+        pontos: 15
+        alternativas:
+          - "Aachen"
+          - "Düsseldorf"
+          - "Berlim"
+          - "Hamburgo"
+        resposta_correta: "Aachen"
+      - id: fabrica-itapevi-008
+        pergunta: "Qual o lema do aniversário de 150 anos da Henkel?"
+        nivel: facil
+        pontos: 5
+        alternativas:
+          - "Futuro? Estamos prontos!"
+          - "Futuro? Estamos chegando..."
+          - "A caminho do futuro."
+          - "O futuro nos espera."
+        resposta_correta: "Futuro? Estamos prontos!"
+      - id: fabrica-itapevi-009
+        pergunta: "Qual marca da Henkel foi atestada com “Qualidade à Prova do Espaço” em 2001?"
+        nivel: medio
+        pontos: 10
+        alternativas:
+          - "Pritt"
+          - "SuperBonder"
+          - "Cascorez"
+          - "Schwarzkopf"
+        resposta_correta: "Pritt"
+      - id: fabrica-itapevi-010
+        pergunta: "Qual monumento histórico foi apoiado pela Henkel em um projeto de restauração em 1987?"
+        nivel: dificil
+        pontos: 15
+        alternativas:
+          - "Grande Muralha da China"
+          - "Coliseu de Roma"
+          - "Torre Eiffel"
+          - "As Pirâmides de Gizé"
+        resposta_correta: "Grande Muralha da China"
+      - id: fabrica-itapevi-011
+        pergunta: "Qual empresa foi adquirida integralmente pela Henkel em 1997 para fortalecer seu negócio de adesivos?"
+        nivel: medio
+        pontos: 10
+        alternativas:
+          - "Loctite"
+          - "Cascola"
+          - "Pritt"
+          - "Durepoxi"
+        resposta_correta: "Loctite"
+      - id: fabrica-itapevi-012
+        pergunta: "Qual tipo de produto a Henkel começou a produzir em 1922, dando origem a um novo segmento de negócios?"
+        nivel: medio
+        pontos: 10
+        alternativas:
+          - "Adesivos"
+          - "Cosméticos"
+          - "Sabão líquido"
+          - "Sabão em pó"
+        resposta_correta: "Adesivos"
+      - id: fabrica-itapevi-013
+        pergunta: "Em que ano a marca Authentic Beauty Concept foi lançada no mercado brasileiro?"
+        nivel: dificil
+        pontos: 15
+        alternativas:
+          - "2020"
+          - "2013"
+          - "2025"
+          - "2004"
+        resposta_correta: "2020"
+      - id: fabrica-itapevi-014
+        pergunta: "Além de Düsseldorf e Jundiaí, onde está localizado outro Inspiration Center da Henkel?"
+        nivel: medio
+        pontos: 10
+        alternativas:
+          - "Xangai"
+          - "Mumbai"
+          - "Dubai"
+          - "Barcelona"
+        resposta_correta: "Xangai"
+      - id: fabrica-itapevi-015
+        pergunta: "Qual artefato histórico foi restaurado em 2015 com o apoio de tecnologias adesivas da Henkel?"
+        nivel: dificil
+        pontos: 15
+        alternativas:
+          - "A máscara de Tutancâmon"
+          - "A pedra de Roseta"
+          - "O sarcófago de Ramsés II"
+          - "A moldura da Mona Lisa"
+        resposta_correta: "A máscara de Tutancâmon"
+      - id: fabrica-itapevi-016
+        pergunta: "Qual país foi escolhido para sediar a primeira filial da Henkel na América Latina?"
+        nivel: medio
+        pontos: 10
+        alternativas:
+          - "Brasil"
+          - "México"
+          - "Peru"
+          - "Colômbia"
+        resposta_correta: "Brasil"
+      - id: fabrica-itapevi-017
+        pergunta: "Onde estava localizada a primeira fábrica da Henkel no Brasil?"
+        nivel: medio
+        pontos: 10
+        alternativas:
+          - "Jacareí"
+          - "Campinas"
+          - "Boituva"
+          - "Suzano"
+        resposta_correta: "Jacareí"
+      - id: fabrica-itapevi-018
+        pergunta: "Qual é o principal compromisso climático da Henkel para 2045?"
+        nivel: medio
+        pontos: 10
+        alternativas:
+          - "Atingir zero emissões líquidas de gases de efeito estufa"
+          - "Alcançar uma redução de 29% nas emissões totais"
+          - "Aumentar o percentual de uso de energia renovável para 97%"
+          - "Não há uma meta definida"
+        resposta_correta: "Atingir zero emissões líquidas de gases de efeito estufa"
+      - id: fabrica-itapevi-019
+        pergunta: "Qual é o piloto brasileiro da Stock Car patrocinado pela Henkel que utiliza produtos Loctite e Teroson em seu carro?"
+        nivel: dificil
+        pontos: 15
+        alternativas:
+          - "Bruno Baptista"
+          - "Felipe Fraga"
+          - "Gabriel Casagrande"
+          - "Átila Abreu"
+        resposta_correta: "Bruno Baptista"
+      - id: fabrica-itapevi-020
+        pergunta: "Em que década a cola Pritt foi introduzida no mercado brasileiro?"
+        nivel: dificil
+        pontos: 15
+        alternativas:
+          - "1970"
+          - "1980"
+          - "1990"
+          - "1960"
+        resposta_correta: "1970"
+      - id: fabrica-itapevi-021
+        pergunta: "Em que ano foi publicado o primeiro Relatório de Sustentabilidade da Henkel?"
+        nivel: dificil
+        pontos: 15
+        alternativas:
+          - "1992"
+          - "2001"
+          - "1989"
+          - "2018"
+        resposta_correta: "1992"
+      - id: fabrica-itapevi-022
+        pergunta: "Qual é a tecnologia de Cascola 451?"
+        nivel: medio
+        pontos: 10
+        alternativas:
+          - "Cianoacrilato"
+          - "Epóxi"
+          - "Silicone"
+          - "PU"
+        resposta_correta: "Cianoacrilato"
+      - id: fabrica-itapevi-023
+        pergunta: "Os produtos Loctite são anaeróbicos por natureza, o que significa que só curam com a ausência de oxigênio."
+        nivel: medio
+        pontos: 10
+        alternativas:
+          - "Verdade"
+          - "Mito"
+        resposta_correta: "Verdade"
+      - id: fabrica-itapevi-024
+        pergunta: "Depois de colado com Loctite, é impossível remover um trava-roscas."
+        nivel: medio
+        pontos: 10
+        alternativas:
+          - "Mito"
+          - "Verdade"
+        resposta_correta: "Mito"
+      - id: fabrica-itapevi-025
+        pergunta: "Qual dos seguintes produtos dissolve a corrosão?"
+        nivel: medio
+        pontos: 10
+        alternativas:
+          - "Loctite SF 8046 Solvo Rust"
+          - "Loctite SF 7199 Removedor de Juntas"
+          - "Loctite 243"
+          - "Loctite 660"
+        resposta_correta: "Loctite SF 8046 Solvo Rust"

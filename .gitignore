@@ -1,0 +1,14 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+*.zip
+*.pem
+REFERENCIA LAYOUT V2/
+REFERENCIA LAYOUT V3/
+public/reference-layout/profile-v2.png
+public/reference-layout/general-profile.png
